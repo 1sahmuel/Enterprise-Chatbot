@@ -1,0 +1,31 @@
+
+Basecamp: Company Overview
+
+Name: Basecamp
+Formerly known as: 37signals
+Founded: 1999
+Founders: Jason Fried, Carlos Segura, and Ernest Kim
+Headquarters: Chicago, Illinois, USA
+
+Basecamp is a company that builds software to help teams manage projects and communicate more effectively. The company is best known for its flagship product, also called Basecamp — a project management and team collaboration tool.
+
+Key Product Features:
+- To-do lists
+- Message boards for discussions
+- Real-time group chat (Campfire)
+- File and document sharing
+- Project schedules and calendar integration
+- Automatic check-in questions
+
+Philosophy:
+Basecamp promotes a "calm work" culture. The company advocates for a stress-free and productive work environment and is openly critical of hustle culture. Its founders have published influential books such as:
+- "Rework"
+- "It Doesn’t Have to Be Crazy at Work"
+- "Remote: Office Not Required"
+
+Notable:
+- In 2014, 37signals officially became Basecamp, focusing entirely on the Basecamp product.
+- The company is known for its strong opinions on workplace culture, simplicity in software, and remote work advocacy.
+
+Note:
+Basecamp is not affiliated with Basecode, so references to Basecamp projects like “Shipshape” in unrelated contexts may be incorrect or misleading.
